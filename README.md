@@ -66,7 +66,9 @@ Import the following schema structure into your MySQL database:
 ---
 
 ## 📸 Screenshots
-*(Add your screenshots of the web portal and hardware setup here)*
+<img width="2560" height="1371" alt="Screenshot (178)" src="https://github.com/user-attachments/assets/80de302d-b97c-4af5-9b0a-68b8a034cb70" />
+<img width="359" height="300" alt="Screenshot 2026-01-09 110708" src="https://github.com/user-attachments/assets/9b7e3644-510f-42ee-b95a-1ecb3171fa6d" />
+
 
 ## 📄 License
 This project is open-source and available under the [MIT License](LICENSE).
