@@ -42,6 +42,17 @@ A comprehensive cashless campus solution integrating an **ESP32-based Payment Te
 | **Keypad** | Rows 1-4 | 12, 14, 27, 26 |
 | | Cols 1-4 | 25, 15, 32, 13 |
 
+#### **RFID Reader (RC522)**
+| RC522 Pin | ESP8266 Pin | Description |
+| :--- | :--- | :--- |
+| **SDA (SS)** | **D1** | Chip Select |
+| **SCK** | **D5** | SPI Clock |
+| **MOSI** | **D7** | SPI MOSI |
+| **MISO** | **D6** | SPI MISO |
+| **RST** | **D2** | Reset |
+| **GND** | GND | Ground |
+| **VCC** | 3.3V | Power |
+
 ---
 
 ## 💻 Software Setup
